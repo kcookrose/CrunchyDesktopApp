@@ -1,0 +1,36 @@
+{
+  "name": "crunchy",
+  "version": "1.0.0",
+  "description": "The ultimate crunchy ToDo application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcookrose/Crunchy.git"
+  },
+  "keywords": [
+    "Electron",
+    "todo",
+    "mojo",
+    "gimme stuff",
+    "elephantitis",
+    "your mother",
+    "a single pea",
+    "fling",
+    "appointment",
+    "blueberry",
+    "gubbins",
+    "brolo swaggins"
+  ],
+  "author": "Kathryn Cook, Paul Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcookrose/Crunchy/issues"
+  },
+  "homepage": "https://github.com/kcookrose/Crunchy#readme",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
